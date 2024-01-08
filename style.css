@@ -1,0 +1,38 @@
+body{
+    background-image:url("bg1.jpeg") ;
+    
+    
+}
+
+.container{
+    padding: 20px;
+    background-color: white;
+    width: 600px;
+    height: 680px;
+    border-radius: 50px;
+    text-align: center;
+    margin-left: 34%;
+    
+    
+}
+
+.form-control{
+    border: none;
+    margin-top: 40px;
+    border-bottom:3px solid rgb(137, 128, 128);
+    width: 500px;
+    font-size: 15px;
+   padding: 10px;
+}
+
+button{
+    margin-top: 30px;
+    border-radius: 100px;
+    width: 400px;
+    height: 50px;
+    outline: none;
+}
+
+a{
+   text-decoration: none;
+}
